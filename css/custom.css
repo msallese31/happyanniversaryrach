@@ -97,6 +97,11 @@ img:last-of-type {
    background-attachment: fixed;  
 }
 
+#slide1 {
+  background-image: url("http://www.planwallpaper.com/static/images/colorful-triangles-background_yB0qTG6.jpg");
+   background-attachment: fixed;  
+}
+
 #slide1:before {
   background-image: url("http://lorempixel.com/640/480/abstract/4/");
   transform: translateZ(-1px) scale(2);
